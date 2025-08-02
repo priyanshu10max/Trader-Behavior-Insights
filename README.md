@@ -16,13 +16,13 @@
 
   🧠 Project Highlights:-
   
-📈 EDA & Correlation Analysis: Visualize how sentiment impacts buy/sell decisions and profitability
+* EDA & Correlation Analysis: Visualize how sentiment impacts buy/sell decisions and profitability
 
-👥 Trader Segmentation: Cluster traders into behavioral groups (e.g., aggressive, consistent, risk-averse)
+* Trader Segmentation: Cluster traders into behavioral groups (e.g., aggressive, consistent, risk-averse)
 
-🧮 Predictive Modeling: Random Forest Classifier to predict if a trader will be profitable on a given day
+* Predictive Modeling: Random Forest Classifier to predict if a trader will be profitable on a given day
 
-📊 Visual Insights: Clean and interactive charts to support pattern discovery and strategic planning
+* Visual Insights: Clean and interactive charts to support pattern discovery and strategic planning
 
 
 
