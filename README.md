@@ -23,3 +23,13 @@
 * Data Merging
 
 * Clustering & Classification Models
+
+📌Key Insights:-
+
+* Traders tend to buy more during Greed and sell more during Fear.
+
+* Losses are higher during fearful sentiment periods.
+
+* Certain trader clusters are consistently profitable regardless of sentiment, indicating the presence of experienced traders.
+
+* High market sentiment value does not always correlate with high PnL, suggesting overconfidence during greedy times.
