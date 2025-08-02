@@ -9,6 +9,7 @@ To analyze how market sentiment (Fear & Greed Index) affects trader behavior and
 (1) Bitcoin Market Sentiment (Fear & Greed Index):-
 
 Fields: timestamp, value (0–100), classification (Fear, Greed, Neutral), date
+
 (2) Historical Trader Data:-
 
 Fields: Account, Coin, Execution Price, Size Tokens, Size USD, Side, Date, Start Position, Direction, Closed PnL, Transaction Hash, Order ID, Crossed, Fee, Trade ID, Timestamp
