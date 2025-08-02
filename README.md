@@ -4,7 +4,7 @@
 
 To analyze how market sentiment (Fear & Greed Index) affects trader behavior and profitability. The project combines historical trading data with sentiment indicators to extract actionable insights and recommend smarter trading strategies.
 
-📊 Datasets Used
+📊 Datasets Used:-
 
 (1) Bitcoin Market Sentiment (Fear & Greed Index):-
 
