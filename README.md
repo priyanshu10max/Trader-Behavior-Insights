@@ -14,7 +14,19 @@
 
 * Fields: Account, Coin, Execution Price, Size Tokens, Size USD, Side, Date, Start Position, Direction, Closed PnL, Transaction Hash, Order ID, Crossed, Fee, Trade ID, Timestamp
 
-🧱 Tech Stack
+  🧠 Project Highlights:-
+  
+📈 EDA & Correlation Analysis: Visualize how sentiment impacts buy/sell decisions and profitability
+
+👥 Trader Segmentation: Cluster traders into behavioral groups (e.g., aggressive, consistent, risk-averse)
+
+🧮 Predictive Modeling: Random Forest Classifier to predict if a trader will be profitable on a given day
+
+📊 Visual Insights: Clean and interactive charts to support pattern discovery and strategic planning
+
+
+
+🧱 Tech Stack:-
 
 * Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
