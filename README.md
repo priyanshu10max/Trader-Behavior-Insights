@@ -14,3 +14,11 @@ Fields: timestamp, value (0–100), classification (Fear, Greed, Neutral), date
 
 Fields: Account, Coin, Execution Price, Size Tokens, Size USD, Side, Date, Start Position, Direction, Closed PnL, Transaction Hash, Order ID, Crossed, Fee, Trade ID, Timestamp
 
+🧱 Tech Stack
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+Jupyter Notebooks
+
+Data Merging
+
+Clustering & Classification Models
