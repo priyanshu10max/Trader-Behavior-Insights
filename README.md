@@ -1,4 +1,4 @@
-# Trader-Behavior-Insights-Analysis
+# Trader-Behavior-Insights
 
 🧠 Objective:-
 
